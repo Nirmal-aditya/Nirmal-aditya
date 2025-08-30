@@ -25,7 +25,6 @@
 ---
 
 ## 📈 GitHub Stats
-![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmal-aditya&show_icons=true&theme=react)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-aditya&layout=compact&theme=react)
 
 ---
