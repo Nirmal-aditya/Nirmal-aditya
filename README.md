@@ -8,7 +8,7 @@
 
 <!-- ABOUT ME -->
 ## 🚀 About Me
-- 🎓 B.Tech in CSE (AI & ML), GPA: 8.79 | CMR College of Engineering & Technology  
+- 🎓 B.Tech Graduate in CSE (AI & ML), GPA: 8.79 | CMR College of Engineering & Technology  
 - ☁️ OCI Certified DevOps Professional | Architect Associate | Foundations Associate  
 - 🌐 Cisco CCNA Certified — Networking & Security Specialist  
 - ⚔️ LeetCode Knight — Top 5.5% Global Contestant  
