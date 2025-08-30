@@ -70,7 +70,6 @@
 ## 📫 Contact / Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nirmaladitya)  
 📧 nirmaladitya0303@gmail.com  
-⏩ [Instagram](https://instagram.com/nirmal.adityaa)
 
 ---
 
