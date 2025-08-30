@@ -78,7 +78,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/nirmal.aditya.03" target="_blank">
+  <a href="https://instagram.com/nirmal.adityaa" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
