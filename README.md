@@ -6,10 +6,15 @@
 ---
 <!-- ABOUT ME -->
 ## 🚀 About Me
+
 - 🎓 B.Tech Graduate in CSE (AI & ML), GPA: 8.79 | CMR College of Engineering & Technology  
+
 - ☁️ OCI Certified DevOps Professional | Architect Associate | Foundations Associate  
+
 - 🌐 Cisco CCNA Certified — Networking & Security Specialist  
+
 - ⚔️ LeetCode Knight — Top 5.5% Global Contestant  
+
 ---
 <!-- SKILLS -->
 ## 🛠️ Skills & Technologies
@@ -82,5 +87,6 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 ---
 *Open to collaboration on cloud-native development, DevOps automation, and full-stack projects!*
