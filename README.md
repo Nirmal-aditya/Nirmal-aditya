@@ -1,76 +1,88 @@
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi, I'm Nirmal Aditya 👋</h1>
+<p align="center">
+  <em>Passionate web developer & cloud enthusiast focused on building scalable, secure solutions.</em>
+</p>
 
-# Hi, I'm Nirmal Aditya 👋
-**Passionate web developer and cloud enthusiast with a flair for creative design and detail.**
-  
 ---
 
+<!-- ABOUT ME -->
 ## 🚀 About Me
-- B.Tech in CSE (AI & ML), CMR College of Engineering & Technology, GPA: 8.79
-- Web developer specialized in **Cloud, DevOps, and Full-stack** solutions.
-- Oracle Cloud Infrastructure (OCI) Certified DevOps Professional, Architect Associate & Foundations Associate.
-- Cisco CCNA (Networking, Switching & Routing).
-- LeetCode Knight | Contest Rating: 1859 (Top 5.5% Global).
+- 🎓 B.Tech in CSE (AI & ML), GPA: 8.79 | CMR College of Engineering & Technology  
+- ☁️ OCI Certified DevOps Professional | Architect Associate | Foundations Associate  
+- 🌐 Cisco CCNA Certified — Networking & Security Specialist  
+- ⚔️ LeetCode Knight — Top 5.5% Global Contestant  
 
 ---
 
-## 🛠️ Skills 
-| Category        | Technologies & Tools                                                                                |
-|-----------------|----------------------------------------------------------------------------------------------------|
-| **Cloud**       | AWS (EC2, S3, VPC, IAM, CloudWatch, EKS), OCI (Certified)                                          |
-| **DevOps**      | Docker, Kubernetes, GitHub Actions, CI/CD Pipelines, Helm, Terraform (basic)                       |
-| **Systems**     | Linux, Shell Scripting, Networking (Load Balancers, VPNs), Infra automation/log analysis            |
-| **Programming** | Java, C++, Node.js, Express.js, SQL (MySQL), MongoDB, EJS, JavaScript                              |
-| **Monitoring**  | CloudWatch, Logs, Kubernetes debugging                                                             |
+<!-- SKILLS -->
+## 🛠️ Skills & Technologies
+<table>
+  <tr align="center">
+    <td><b>Cloud & DevOps</b><br> 
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />  
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    </td>
+    <td><b>Programming & Frameworks</b><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+    <td><b>Tools & Automation</b><br>
+      <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Helm-0F193B?style=for-the-badge&logo=helm&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-aditya&layout=compact&theme=react)
+<!-- FEATURED PROJECTS -->
+## 🔥 Featured Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| **2048 Game on AWS EKS** | Scalable Kubernetes deployment using Fargate & Helm, showcasing cloud-native expertise. | [GitHub](https://github.com/Nirmal-aditya/EKS-2048-game) |
+| **AWS CI/CD Pipeline + Docker** | Automated Docker builds and deployments via CodePipeline & CodeBuild, increasing delivery speed by 80%. | [GitHub](https://github.com/Nirmal-aditya/AWS-CI-Project) |
+| **Optimized AWS VPC Infrastructure** | Multi-AZ resilient VPC design with security & auto-scaling for high availability. | [GitHub](https://github.com/Nirmal-aditya/Optimized-AWS-Cloud-Infrastructure-with-VPCs) |
+| **ScribbleNest** | Secure full-stack blogging platform with JWT & Bcrypt authentication. | [GitHub](https://github.com/Nirmal-aditya/ScribbleNest) |
+| **Real-Track** | Real-time device tracker using Socket.IO & Leaflet for interactive maps. | [GitHub](https://github.com/Nirmal-aditya/Real-Track) |
+| **Portfolio** | React-based personal portfolio with clean interactive UI. | [GitHub](https://github.com/Nirmal-aditya/Portfolio) |
 
 ---
 
-## 📚 Featured Projects
-
-- [2048 Game on AWS EKS](https://github.com/Nirmal-aditya/EKS-2048-game)  
-  *Automated, scalable & secure deployment using Fargate, Helm, IAM. Demonstrates Kubernetes and cloud-native ops.*
-  
-- [AWS CI/CD Pipeline + Docker](https://github.com/Nirmal-aditya/AWS-CI-Project)  
-  *CodePipeline & CodeBuild automating Docker image builds, reducing manual effort by 80%.* 
-
-- [Optimized AWS VPC Infrastructure](https://github.com/Nirmal-aditya/Optimized-AWS-Cloud-Infrastructure-with-VPCs)  
-  *Multi-AZ, resilient VPC design with ALB, NAT, Auto Scaling, and security groups.*
-
-- [ScribbleNest - Secure Blogging Platform](https://github.com/Nirmal-aditya/ScribbleNest)  
-  *Full-stack blogging platform with JWT/Bcrypt auth, role-based access, and EJS UI.*
-
-- [Real-Track - Real-Time Device Tracker](https://github.com/Nirmal-aditya/Real-Track)  
-  *Device location tracker with Node.js, Express, Socket.IO, Leaflet for interactive maps.*
-
-- [Portfolio](https://github.com/Nirmal-aditya/Portfolio)  
-  *React-based personal portfolio with interactive, user-friendly interfaces.*
+<!-- ACHIEVEMENTS -->
+## 🏆 Achievements & Certifications
+- 🥇 LeetCode Knight — Top 5.5% Global  
+- 🎖️ Blockathon Top 5, IIT Roorkee (May 2024)  
+- 🏅 Best Project Award, CMRCET Smart Ambulance System (2022)  
+- 📜 Paper: "KNN-Based Personalized Movie Recommender" (ICSIE 2025)  
+- 🎓 OCI Certified DevOps Professional, Architect & Foundations Associate (2025)  
+- 🎓 Cisco CCNA: Switching, Routing & Wireless Essentials (2024)  
 
 ---
 
-## 🏆 Achievements
-- **LeetCode Knight** – Top 5.5% globally in contests.
-- **Blockathon Top 5** – IIT Roorkee, May 2024.
-- **Best Project Certificate** – CMRCET, Smart Ambulance Systems, Feb 2022.
-- **Paper Presentation** – "KNN-Based Personalized Movie Recommender," ICSIE 2025.
+<!-- CONTACT -->
+## 📫 Let’s Connect
+<p align="center">
+  <a href="https://linkedin.com/in/nirmaladitya" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nirmaladitya0303@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/nirmal.aditya.03" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📃 Certifications
-- **OCI Certified DevOps Professional** (2025)
-- **OCI Architect Associate** (2025)
-- **OCI Foundations Associate** (2025)
-- **Cisco CCNA: Switching, Routing & Wireless Essentials** (2024)
-
----
-
-## 📫 Contact / Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nirmaladitya)  
-📧 nirmaladitya0303@gmail.com  
-
----
-
-> *Open to collaboration on cloud-native development, DevOps automation, and full-stack projects!*
+*Open to collaboration on cloud-native development, DevOps automation, and full-stack projects!*
