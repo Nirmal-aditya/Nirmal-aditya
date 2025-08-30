@@ -3,18 +3,14 @@
 <p align="center">
   <em>Passionate web developer & cloud enthusiast focused on building scalable, secure solutions.</em>
 </p>
-
 ---
-
 <!-- ABOUT ME -->
 ## 🚀 About Me
 - 🎓 B.Tech Graduate in CSE (AI & ML), GPA: 8.79 | CMR College of Engineering & Technology  
 - ☁️ OCI Certified DevOps Professional | Architect Associate | Foundations Associate  
 - 🌐 Cisco CCNA Certified — Networking & Security Specialist  
 - ⚔️ LeetCode Knight — Top 5.5% Global Contestant  
-
 ---
-
 <!-- SKILLS -->
 ## 🛠️ Skills & Technologies
 <table>
@@ -43,6 +39,14 @@
 
 ---
 
+<!-- TOP LANGUAGES -->
+## 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-aditya&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+---
+
 <!-- FEATURED PROJECTS -->
 ## 🔥 Featured Projects
 | Project | Description | Link |
@@ -53,9 +57,7 @@
 | **ScribbleNest** | Secure full-stack blogging platform with JWT & Bcrypt authentication. | [GitHub](https://github.com/Nirmal-aditya/ScribbleNest) |
 | **Real-Track** | Real-time device tracker using Socket.IO & Leaflet for interactive maps. | [GitHub](https://github.com/Nirmal-aditya/Real-Track) |
 | **Portfolio** | React-based personal portfolio with clean interactive UI. | [GitHub](https://github.com/Nirmal-aditya/Portfolio) |
-
 ---
-
 <!-- ACHIEVEMENTS -->
 ## 🏆 Achievements & Certifications
 - 🥇 LeetCode Knight — Top 5.5% Global  
@@ -64,9 +66,7 @@
 - 📜 Paper: "KNN-Based Personalized Movie Recommender" (ICSIE 2025)  
 - 🎓 OCI Certified DevOps Professional, Architect & Foundations Associate (2025)  
 - 🎓 Cisco CCNA: Switching, Routing & Wireless Essentials (2024)  
-
 ---
-
 <!-- CONTACT -->
 ## 📫 Let’s Connect
 <p align="center">
@@ -82,7 +82,5 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
 ---
-
 *Open to collaboration on cloud-native development, DevOps automation, and full-stack projects!*
